@@ -36,3 +36,11 @@ A full-stack task tracker where users submit text tasks, and the backend perform
 - Task list updates every 5 seconds  
 - Delete or View task details on click  
 - Simple, clean, mobile-friendly UI  
+
+---
+
+## 📸 Screenshots
+
+![Login page Screenshot](./Screenshots/image2.png)
+![Homepage Screenshot](./Screenshots/image1.png)
+
